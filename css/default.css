@@ -84,13 +84,16 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:50% 50%;
 }
 .blog .aside{
-    background-image:url(https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*cF2i1ZosSP_UTJig.jpeg);
+    background-image:url('/images/background/hust.jpeg');
 }
 .opinion .aside{
-    background-image:url(https://dnqgz544uhbo8.cloudfront.net/_/fp/img/bestof/june-2013.CaUUbO2jIECgCmldhmxCCA.jpg);
+    background-image:url('/images/background/hust2.jpeg');
 }
 .project .aside{
-    background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg')
+    background-image:url('/images/background/pku.jpg')
+}
+.thoughts .aside{
+    background-image:url('/images/background/pku.jpg')
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
@@ -168,6 +171,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .blog .aside,
     .project .aside,
     .opinion .aside {display:none;background-image:none;}
+	.thoughts .aside
 }
 
 @media (max-width: 1020px){
