@@ -1,0 +1,11 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: SilentVally
+url: http://silentvally.github.io
+feed: /atom.xml
+author_info: <a href="http://silentvally.github.io">SilentVally</a>
