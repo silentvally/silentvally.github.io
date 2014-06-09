@@ -25,10 +25,11 @@ $(document).ready(function(){
 
     //***********************
     //**评论的代码也删掉哦***
-    window.disqus_shortname = 'silentvally'; // required: replace example with your forum shortname
+    //window.disqus_shortname = 'silentvally'; // required: replace example with your forum shortname
     $('#disqus_container .comment').on('click',function(){
         $(this).html('加载中...');
         var that = this;
+		var disqus_shortname = 'silentvally';
         $.getScript('http://' + disqus_shortname + '.disqus.com/embed.js',function(){$(that).remove()});
     });
     //**评论的代码也删掉哦***
