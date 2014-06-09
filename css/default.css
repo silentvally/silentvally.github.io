@@ -92,6 +92,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .mood .aside{
     background-image:url('/images/background/pku2.jpeg')
 }
+.travel .aside{
+    background-image:url('/images/background/pku.jpeg')
+}
 
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
@@ -168,7 +171,8 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 
     .blog .aside,
     .thought .aside,
-    .mood .aside {display:none;background-image:none;}
+    .mood .aside,
+	.travel .aside {display:none;background-image:none;}
 }
 
 @media (max-width: 1020px){

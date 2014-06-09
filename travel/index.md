@@ -2,19 +2,19 @@
 layout: home
 ---
 
-<div class="index-content mood">
+<div class="index-content travel">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Blog</span></a></li>
-            <li style="text-align:center"><a href="/thought"><span>Thought</span></a></li>
-            <li class="on" style="text-align:right"><a href="/mood"><span>Mood</span></a></li>
-			<li style="text-align:center"><a href="/travel"><span>Travel</span></a></li>
+			<li style="text-align:right"><a href="/thought"><span>Thought</span></a></li>
+			<li style="text-align:right"><a href="/mood"><span>Mood</span></a></li>
+            <li class="on" style="text-align:center"><a href="/travel"><span>Travel</span></a></li>            
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.mood %}
+        {% for post in site.categories.travel %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>

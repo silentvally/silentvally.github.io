@@ -8,6 +8,7 @@ layout: home
             <li class="on"><a href="/"><span>Blog</span></a></li>
             <li style="text-align:center"><a href="/thought"><span>Thought</span></a></li>
             <li style="text-align:right"><a href="/mood"><span>Mood</span></a></li>
+			<li style="text-align:right"><a href="/travel"><span>Travel</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
