@@ -8,7 +8,7 @@ description: 荆楚者，鄂州之地也，盖以其水道纵横，得天独厚�
 荆楚者，鄂州之地也，盖以其水道纵横，得天独厚，自古有九省通衢之美誉；湘岳者，洞庭之南，湘水贯穿，以其秀色美食为人道。此行自武汉关山口出发，途经江夏，贺胜桥，咸宁，赤壁，临湘，终至岳阳洞庭；返程果断抛弃国道，溯江而上，经赤壁镇古战场，洪湖，乌林渡口，新滩渡口，汉南，武汉三环线，关山终点。全程往返鄂湘之间，耗时五日，其中于洞庭之畔逗留一日，行程共计约600公里，其中沿长江水道骑行近150公里，饱览巴陵胜状，长江曲折，真真美不胜收，我见犹怜。
 
 ## 去行路线
-![Wuhan-Yueyang-Cycling](http://img3.douban.com/view/photo/photo/9SP4kdU2PkBCjh4qiG9iRQ/x2188259043.jpg)
+![Wuhan-Yueyang-Cycling](http://b48.photo.store.qq.com/psu?/c0e77018-3a96-4ea1-9159-fb678a505df3/3zO7CY2ftlssnkZ10nMO2M3ucfjX74NDK2jXn6dhyfo!/b/YZK8cSHiEgAAYnXhoxzaXAAA&a=56&b=48&bo=lgIqAgAAAAABAJs!&t=5&rf=viewer_4)
 
 ### 第一天：武汉（早上八点）——贺胜桥（午餐）——咸宁（逗留）——赤壁（晚九点）
 
@@ -33,7 +33,7 @@ description: 荆楚者，鄂州之地也，盖以其水道纵横，得天独厚�
 到了岳阳，其实只是仅仅找到个挂了岳阳的牌子，我一度以为岳阳是不是在搞个“全城无灯日”之类的节能减排日，为什么我们的眼里饱含绝望，因为我们在这土地找不到灯光……囧囧的问了路边的大叔，才知道离岳阳楼区还有接近20里，那个悲催啊！
 
 ## 返程路线
-![Wuhan-Yueyang-Cycling](http://img3.douban.com/view/photo/photo/RJNgH_2Ydb3D_WnzKW9vBg/x2188259038.jpg)
+![Wuhan-Yueyang-Cycling](http://b59.photo.store.qq.com/psu?/c0e77018-3a96-4ea1-9159-fb678a505df3/kxa9V6k3mFEtFgBP50AHRB9vLzhqbFxbqhCj9PWLhCk!/b/YRwTsBxMVwAAYmUOQCM7EQAA&a=48&b=59&bo=YgIhAgAAAAABAGQ!&t=5&rf=viewer_4)
 
 ### 第四天：岳阳（早八点半）——赤壁镇（午两点，五点出发）——洪湖（晚八点）
 
