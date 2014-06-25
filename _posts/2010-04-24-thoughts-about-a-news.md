@@ -3,6 +3,9 @@ layout: post
 title: 一则消息引发的思考
 category: thought
 description: 华中科技大学周报第353期大篇幅报道了华中科技大学点团队的周年庆典，但是我却注意到了另一条更让我高兴的消息：“学术有道德 违反必严处”。
+tags:
+  - thought
+  - college
 ---
 
 一则消息引发的思考……
@@ -23,6 +26,3 @@ description: 华中科技大学周报第353期大篇幅报道了华中科技大�
  
 以上是关于一则消息引发的思考，虽然某些地方可能会有失偏颇，但是句句均是发自心底的思考，谨以此文抛砖引玉，希望能够激起诸君心底的一丝波澜……
 
-
-
-[SilentVally]:    http://silentvally.github.io  "SilentVally"

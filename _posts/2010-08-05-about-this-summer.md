@@ -3,6 +3,9 @@ layout: post
 title: 有关这个夏天 
 category: mood
 description: Some affairs in this summer
+tags:
+  - summary
+  - college
 ---
 
 总是习惯了阶段性的发点牢骚，估计现在是周期又来了，虽然这个夏天过得着实有点不快，但是如果仔细想想，其实还是有那么几件会成为回忆的事情，至少。
@@ -25,10 +28,3 @@ description: Some affairs in this summer
 
 后天就要回家了，结束这寥寥的一个学期……
 
-
-
-
-
-
-[SilentVally]:    http://silentvally.github.io  "SilentVally"
-[1]:    {{ page.url}}  ({{ page.title }})

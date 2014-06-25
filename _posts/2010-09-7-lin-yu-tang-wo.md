@@ -3,6 +3,9 @@ layout: post
 title: 林语堂的我
 category: thought
 description: 我是谁？
+tags:
+  - reading
+  - linyutang
 ---
 
 “我只是一团矛盾而已，但是我以自我矛盾为乐。”
@@ -51,5 +54,3 @@ description: 我是谁？
 
 “我在《生活的艺术》里说，理想的人并不是完美的人，而只是一个令人喜爱而通情达理的人，而他也不过尽力做那么样的一个人罢了。”
 
-  
-[SilentVally]:    http://silentvally.github.io  "SilentVally"

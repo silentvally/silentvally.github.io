@@ -3,6 +3,10 @@ layout: post
 title: 歪论之“愤青与粪青”
 category: thought
 description: 涛涛“歪论”系列~
+tags:
+  - wailun
+  - thought
+  - society
 ---
 
 一直以来总是和宁哥辩论有关中国国情的问题，而每次几乎面红耳赤的辩论貌似结果都会回到关于到底是愤青还是粪青的问题。虽然我的观点或许也只是自己一时的想法，但是，毕竟也是自己的思考吧。故还是应该做一个总结。这里把我的一些想法晒出来供大家评判。
@@ -25,7 +29,3 @@ description: 涛涛“歪论”系列~
  
 还是那句话，以上歪论，纯属个人意见，欢迎批评！不过如果我的一点意见能够引发诸君的深入思考的话，我也就善莫大焉了......
 
-
-
-
-[SilentVally]:    http://silentvally.github.io  "SilentVally"

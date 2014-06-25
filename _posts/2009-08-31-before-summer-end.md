@@ -3,6 +3,10 @@ layout: post
 title: 写在大二开学前的话
 category: mood
 description: 怀念这个充实精彩的暑假~
+tags:
+  - summer
+  - summary
+  - experience
 ---
 
 开学了，说实话：有点不习惯！­
@@ -54,12 +58,3 @@ C++，这个就不说了，的确很有点挫，还是准备我的二级C吧！�
 或许这正是每一个在外求学的游子都无法避免的一个心结吧。孤单时，我们不得不学着一个人面对；高兴时，我们也没办法与亲近的人分享；茫然时，我们要学会自己寻找方向……­
 
 但这或许也正是每一个游子离家最大的收获吧。一个人的孤单让我们更加坚强；独自的狂欢让我们学会冷静处事；茫然的无助让我们开始寻找……­
-
-
-
-
-
-
-
-[SilentVally]:    http://silentvally.github.io  "SilentVally"
-[1]:    {{ page.url}}  ({{ page.title }})

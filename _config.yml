@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title.html
 name: "silentvally"
 markdown: rdiscount
 
-author: "liutao"
+author: "silentvally"
 atom-baseurl: "http://silentvally.com"
 disqus: "silentvally"
 

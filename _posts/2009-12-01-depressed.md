@@ -3,6 +3,9 @@ layout: post
 title: 烦
 category: mood
 description: 这个寒冷严酷的冬天因为有了温柔飘飞的雪花而诗意盎然
+tags:
+  - depressed
+  - lonely
 ---
 
 又开始莫名其妙的低迷了…
@@ -14,9 +17,3 @@ description: 这个寒冷严酷的冬天因为有了温柔飘飞的雪花而诗�
 总之就是什么都不想做，什么都不得不做；什么都想做，什么都做不好！
 
 这次第，怎一个“烦”字了得？…
-
-
-
-
-[SilentVally]:    http://silentvally.github.io  "SilentVally"
-[1]:    {{ page.url}}  ({{ page.title }})

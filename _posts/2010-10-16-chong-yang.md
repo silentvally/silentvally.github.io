@@ -3,6 +3,10 @@ layout: post
 title: 又到重阳 
 category: mood
 description: 岁岁重阳，今又重阳
+tags:
+  - chongyang
+  - family
+  - home
 ---
 
 还记得去年重阳节，给爷爷奶奶打了个电话问候节日快乐，因为我的印象里，重阳节应该是老年人的节日吧！后来过年回家，没能赶上爷爷的生日，一直很愧疚，才发现自己好像从小到大一直都不记清家人的生日，常常都是妈妈提醒我家里谁要过生日了，而妈妈的生日，我好像也是上了大学后偶然一次看到她的身份证才知道的吧，农历生日我就不知道了，虽然爸妈一直都过的是农历。
@@ -27,9 +31,3 @@ description: 岁岁重阳，今又重阳
 
 今天又是重阳了，给爷爷奶奶打个电话吧，他们希望的只是这么多……
 
-
-
-
-
-[SilentVally]:    http://silentvally.github.io  "SilentVally"
-[1]:    {{ page.url}}  ({{ page.title }})

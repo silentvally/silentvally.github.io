@@ -3,6 +3,9 @@ layout: post
 title: 纠结
 category: mood
 description: 每过一段时间总有那么几天
+tags:
+  - depressed
+  - failure
 ---
 
 今天是我的应急复习计划的最后一天，也是我在将来的一周左右时间内最后一次有机会写一些东西了，我不想让这样一个夜晚就这样在一片失败后的堕落中度过，近期一段时间来，我经历了很多事情，也有必要做一个总结了...
@@ -16,8 +19,3 @@ description: 每过一段时间总有那么几天
 
 算了，过了零点了，我的应急预案也应该启动了，物理、六级！！！
 睡了，不再YY了...
-
-
-
-[SilentVally]:    http://silentvally.github.io  "SilentVally"
-[1]:    {{ page.url}}  ({{ page.title }})
