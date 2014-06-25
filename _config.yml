@@ -1,11 +1,30 @@
-auto: true
-
 markdown: rdiscount
 pygments: true
-paginate: 8
-permalink: /:title
+permalink: /:year/:month/:day/:title.html
+name: "silentvally"
+markdown: rdiscount
 
-title: SilentVally
-url: http://silentvally.github.io
-feed: /atom.xml
-author_info: <a href="http://silentvally.github.io">SilentVally</a>
+author: "liutao"
+atom-baseurl: "http://silentvally.com"
+disqus: "silentvally"
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: http://foto.lhzhang.com
+  - title: Blogroll
+    class: fa fa-link
+    href: /links.html
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
+
