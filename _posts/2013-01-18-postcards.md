@@ -1,12 +1,11 @@
 ---
-title: 一个人的毕业旅行
-category: travel
+title: Though I cannot call your name
+category: mood
 layout: post
 tags:
-  - cycling
-  - granduate
-  - experience
-  - travel
+  - postcard
+  - interest
+  - mood
 ---
 
 ![Postcard](/media/image/2013/postcard.jpg)
