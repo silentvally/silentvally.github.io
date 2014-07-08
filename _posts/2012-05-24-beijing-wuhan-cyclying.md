@@ -9,7 +9,8 @@ tags:
   - travel
 ---
 
-![Beijing-Wuhan-Cycling](/media/image/2012/beijing-wuhan-cycling.png)
+![Beijing-Wuhan-Cycling](/media/image/2012/beijing-wuhan-cycling.png)   
+![Beijing-Wuhan-Cycling](/media/image/2012/cycling-beijing-wuhan.jpg)   
 
 ---
 
