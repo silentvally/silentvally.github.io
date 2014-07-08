@@ -1,12 +1,20 @@
 ---
+title: 雪山
 layout: post
-title: jQuery解构
-category: mood
-description: jQuery是一个伟大作品，他的完成充满智慧，我们来一点点拆解他，去理解作者的思想精华。
+tags:
+  - photography
+  - hasselblad
+  - 500cm
+  - cf80
+  - japan
+  - month-favorite
 ---
-# [{{ page.title }}][1]
-2012-01-16 By {{ site.author_info }}
 
+[![White Mountains](/media/files/2014/04/07/white-mountains.jpg)](http://500px.com/photo/64294269)
 
-[SilentVally]:    http://silentvally.github.io  "SilentVally"
-[1]:    {{ page.url}}  ({{ page.title }})
+天气终于暖和了起来，冬天就用这张不是全景的全景作为最后的作业吧
+
+---
+
+周末跑去听了 bob dylan 的 live，大爷真的是老了  
+但愿今年能拍到好看的樱花
