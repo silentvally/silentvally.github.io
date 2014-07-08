@@ -9,7 +9,6 @@ tags:
   - travel
 ---
 
-![Beijing-Wuhan-Cycling](/media/image/2012/beijing-wuhan-cycling.png)   
 ![Beijing-Wuhan-Cycling](/media/image/2012/cycling-beijing-wuhan.jpg)   
 
 ---
@@ -171,3 +170,5 @@ tags:
 另外，这趟骑行一个比较深刻的认识就是，有些事如果现在不去做，以后就真的没有机会了，而有些事，也真的是一辈子只需要这么一次就够了…
 
 所以，出发吧，那些怀抱着梦想还在幻想着未来某一天再去实现的孩子们！
+
+![Beijing-Wuhan-Cycling](/media/image/2012/beijing-wuhan-cycling.png)   
