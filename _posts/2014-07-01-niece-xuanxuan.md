@@ -1,6 +1,7 @@
 ---
 title: 侄女
 layout: post
+category: photography
 tags:
   - photography
   - niece

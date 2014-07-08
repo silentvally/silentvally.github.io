@@ -6,9 +6,10 @@ tags:
   - cycling
   - thought
   - experience
+  - travel
 ---
 
-![Xuanxuan](/media/image/2010/wuhan-yueyang.jpg)
+![Wuhan-Yueyang](/media/image/2010/wuhan-yueyang.jpg)
 
 ---
 
