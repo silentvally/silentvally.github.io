@@ -6,9 +6,9 @@ tags:
   - photography
   - travel
   - hiking
+  - yunmengshan
 ---
 
-![Yunmeng-Hiking](/media/image/2014/yunmeng-top.jpg)  
 ![Yunmeng-Hiking](/media/image/2014/yunmeng-sunset.jpg)  
 
 ---
