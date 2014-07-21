@@ -1,5 +1,5 @@
 ---
-title: 徒步的快乐
+title: 徒步的乐趣
 layout: post
 category: travel
 tags:
@@ -28,4 +28,4 @@ tags:
 徒步的乐趣  
 隐藏在山水间  
 喜欢享受自由和孤独的人  
-才能体味其间的快乐  
+才能体味其间的乐趣  
