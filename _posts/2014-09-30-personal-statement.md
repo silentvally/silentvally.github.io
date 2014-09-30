@@ -30,13 +30,40 @@ tags:
 </script>
 <div id="category"></div>
 
-## 沟通能力类 Comminicating Skills
+## 公司及行业类 Corporation and Industry  
+Questions Like:  
+-Why choose xxx/position/xxx Industry?
+-Why choose management trainee program？
+-The biggest oppotunity for xxx and the industry in the next 10 years, and risks or challenges?
+-Qualities that can distinguish you from others and succeed in xxx? Your skills that could help you succeed in xxx? 
 
+## 沟通能力类 Comminicating Skills
+Questions Like:  
+-If you find some one in the team difficult to deal with? What is your action? Example
+-Describe a time when you explain a very complex problem to others (your manager or client)
+-How do you deal with conflicts in a group?
+-An example of communication ability, how to get along with someone not so kind?
+-How can you adjust your styles to different audiences?
+ 
 ## 团队协作类 Team Work
+Questions Like:  
+-Tell me a time that you play an important role in a teamwork.
+-Conflicts within a team, what is your approach
+-How do you contribute to the team? what will you do if one of your team members has difficuilties?
 
 ## 领导能力类 Leadership
-
+Questions Like:  
+-What quality do you think a good leader should have?
+-Your leader experience to achieve a goal?
+ 
 ## 抗压能力 Coping with Stress
+Questions Like:  
+-An example that you have to deal with many activities at the same time?
+-An example that you are infrastrated/ feeling setback? How do you overcome?
+-The most difficult goal you have struggle for? how did you achieve it?
 
 ## 分析及决策能力 Analyzing and Decision Making
+-Decision making process
+-Analytical and problem-solving skills
+-Introduce an example that can show your innovation in internship or campus organizations.
 
