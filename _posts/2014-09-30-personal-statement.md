@@ -133,5 +133,12 @@ By chance, I had a conversation with my line manager and takled about my hobbies
 - Other Experience you want to share
 
 ### Answer/Example
-(骑行经历)
+(骑行经历)The most impressive thing I've done and the most incredeble thing happened on me is the cycling experience of mine. I began to love cycling during my undergraduate study in HUST, but it was always short trip, no more than 100km. However, in the last year of my undergraduate study, I made a decision.
+
+I was then got admitted by Peking University and working on my bachelor's thesis in PKU, but I had to go back to Wuhan to present my thesis and graduate. It was then I made up my mind to ride a bycicle from Beijing to Wuhan, which was a journey of more than 1300km, and I had never clcyled such a long journey, never to mention cyclying alone. So I had to make a sufficient preparation, I learnt how to fix a bike, bought necessary medcines and sunscreen products. 
+
+However, the most impressive experience in the journey was not the hot weather and strong sunlight, it was the feeling of being alone and the despairation of the long journey ahead. Besides, an alone journey made the despairation more severe. When I was in such a despairation and it seemed impossible for me to finish this journey, I thought about the meaning of this journey, and my dreams of making a long cycling journey. I had been dreaming of a long journey for so long, and the meaning of this journey was not to enjoy the beautiful scenery or tasty food, it was to experience the life on journey and overcome difficulties on the way. 
+
+I lighted up and did not think about the remaining long journey ahead, and concerntrated myself on today's trip. Besides, I found a pleasure for myself, that is to take photos with the milestones. I found that there were someone who had the same idea with me, and they even signed their names and feeling on the milestone. I read their message and felt that I am not alone anymore. Finally, this journey took me 8 days to reach my destination, and will take me a lifetime to forget.
+
 (杨志鸿事件)
