@@ -8,6 +8,10 @@ tags:
   - myself
 ---
 
+最近挣扎于各大公司的简历投递与面试笔试过程中，发现相较于笼统的描述自己的性格品质，更多公司更希望听到面试者能够通过具体的事例来说明自己具备公司所要求的一些共性品质，尤其是管理培训生的简历和面试，专业问题倒是其次，对于个人经历的兴趣占据了非常大的衡量权重。在经历了几番被“轰炸”后的绞尽脑汁，我发觉有必要仔细的梳理自己在这些方面的经历，一来做到胸有成竹，避免被问到这类问题时抓耳挠腮，二来我已经在简历上附上了自己的博客地址，万一哪位HR有兴致点进来看了，也算是有个先期的了解。:)
+
+好了，下面是我在最近的简历投递和面试过程中总结的，公司普遍关注的一些个人品质，并且附上了自己在这些相关方面的具体表现事例。再次声明一下，这并不是为了应付面试，而是对自己经历经验的一次梳理，也算是对自己这几年来的一次回顾吧！
+
 ---
 <link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/googlecode.min.css">
  
@@ -31,9 +35,6 @@ tags:
 </script>
 <div id="category"></div>
 ---
-最近挣扎于各大公司的简历投递与面试笔试过程中，发现相较于笼统的描述自己的性格品质，更多公司更希望听到面试者能够通过具体的事例来说明自己具备公司所要求的一些共性品质，尤其是管理培训生的简历和面试，专业问题倒是其次，对于个人经历的兴趣占据了非常大的衡量权重。在经历了几番被“轰炸”后的绞尽脑汁，我发觉有必要仔细的梳理自己在这些方面的经历，一来做到胸有成竹，避免被问到这类问题时抓耳挠腮，二来我已经在简历上附上了自己的博客地址，万一哪位HR有兴致点进来看了，也算是有个先期的了解。:)
-
-好了，下面是我在最近的简历投递和面试过程中总结的，公司普遍关注的一些个人品质，并且附上了自己在这些相关方面的具体表现事例。再次声明一下，这并不是为了应付面试，而是对自己经历经验的一次梳理，也算是对自己这几年来的一次回顾吧！
 
 ## 公司及行业类 Corporation and Industry  
 ### Questions Like:  
@@ -63,7 +64,7 @@ I admit that many of the job positions do not ask for a special major and profes
 - How can you adjust your styles to different audiences?  
 
 ### Answer/Example
-About communicating conflicts, the dealing differ with differnt people you are communicating to, your boss, your colleagues or your clients, and also differ with the importance of the case, a principal problem, or a doesn't-matter-problem.
+(西门子拼图)About communicating conflicts, the dealing differ with differnt people you are communicating to, your boss, your colleagues or your clients, and also differ with the importance of the case, a principal problem, or a doesn't-matter-problem.
 
 As for my experience, I want to share an experience during my intership in Siemens. It was in the Siemens TOPAZ summer camp training program. There were about 20 members from all over China, we took training courses of all kinds, to get prepared and be professional for the future work. In one training course, we were given a puzzle of about more than 2000 parts and needed to finish it within 2 hours, which was absolutely a mission impossible. At first, we quickly devided into four groups, each group was responsible for an area of the puzzle, and each group we had a voluntary leader, they were responsible for the communicating between each group, I was the leader of my group. 
 
@@ -80,7 +81,7 @@ Finally, we accomplished a little more than 10% of the puzzle, which is above th
 - How do you contribute to the team? what will you do if one of your team members has difficuilties?  
 
 ### Answer/Example
-Team work spirit plays an important role in inspecting an interviewer. What I am going to share is an experience of making an interview of an alumnus who is now an hornored member of the Chinese Academy of Science. The interview is a part of a book named "The Secret of Engineering". My fellow party branch members and I were assigned to accomplish this interview, and I was responsible for the interview and making a draft article. 
+(解密工之道采访)Team work spirit plays an important role in inspecting an interviewer. What I am going to share is an experience of making an interview of an alumnus who is now an hornored member of the Chinese Academy of Science. The interview is a part of a book named "The Secret of Engineering". My fellow party branch members and I were assigned to accomplish this interview, and I was responsible for the interview and making a draft article. 
 
 Firstly, we needed to collect background information about the alumnus, and organize the interview structure and prepare questions. Then, we needed to get contacted with his secretary and arrrange the interviewing spot and convenient time for both of us. Thirdly, We went to make this interview and recorded the conversation of later use. After all these were done, we had to make up the sound records and make a draft, after several versions of modification, we also needed to get the alumnus' permission for publishing. It's a series work.
 
@@ -92,7 +93,13 @@ As a team leader, and also a member of the interview team, I needed not only to 
 - Your leader experience to achieve a goal?  
  
 ### Answer/Example
-(小红帽志愿者)
+(小红帽志愿者)Many management trainee program want it's members to have experiments of being leader in university, such as associate leaders, students' union presidents. Fortunately, I happend to have several experience of leadership in my undergraduate and postgraduate periods.
+
+The most impressive one is being the leader of the Redhat Volunteer Association in HUST, which is a student association to help students with their electronic appliance repairing. Since HUST is a engineering university, we have many electronic related majors, which offers our association many technicians.
+
+I was the 20th captain of the volunteer team, and during my term of service, the most important thing is the 20th anniversary of the volunteer team. The celebration of the anniversary got highly concern of the department leadership, and I was responsible for the organization of the anniversary. For the preparation work, we needed to complie a summary report annual of the association, which acquired us to collect and reorganize all the materials passed onto us during the past 20 years. Besides, we need to send invitations of the old members and the related leaders to attdend the 20 anniversary conference. Then, I also need to arrange the annversary conversation and prepare lecture materials, and organize the meeting process and spot.
+
+The anniversary reached a great success and got highly praised by the Youth League Committee of Hubei Province. Moreover, for our outstanding performance, the association won the Excellent Volunteer Association Award of Hongshan District, Wuhan City in 2011. Besides, in my efforts, more than 20 members of the association got praised of the Excellent Youth Volunteer of HUST.
 
 ## 抗压能力 Coping with Stress
 ### Questions Like:  
@@ -101,7 +108,13 @@ As a team leader, and also a member of the interview team, I needed not only to 
 - The most difficult goal you have struggle for? how did you achieve it?  
 
 ### Answer/Example
-（丝丽雅项目）
+(丝丽雅项目)It's important for an employee to handle pressure in daily work, especially in a expansive company, so the ability to cope with pressure is very important. I happened to have an experience of a project which may show some related qualities of mine.
+
+It was a quality improvement consulting project in a chemical plant in Yibin, sichuan province. We were entrusted to investigate the production line and improve the stability of the product quality. Our team consisted of three professors and one postgraduate student, me. The project lasted for almost one year and contain 3 stages, investigating, model building and online testing.
+
+What bothered me is that I was almost the only person who did most of the works. Since the other three professors were busy with other projects or their researchs, they could just provide necessary guidance for me, and I have to work on this project by myself. Besides, sometimes I had to compromise among different opinions of them. When a version of report was drafted or a preliminary model was built, they often would have different suggestions on reversion, and I had to explain to them and make several revisions to satisfy all their expectations. Moreover, during the project period, I also needed to do my own research, and had to coordinate my time and efforts in both of them. 
+
+Finally, when tht project was done, we achieved a goal of improving the quality variation more than 30% and 12% of the product proficiency and trained more than 20 QAs on quality engineering. I also got highly phaised by all the three professors for my performance in the project.
 
 ## 分析及决策能力 Analyzing and Decision Making
 ### Questions Like:  
@@ -110,7 +123,9 @@ As a team leader, and also a member of the interview team, I needed not only to 
 - Introduce an example that can show your innovation in internship or campus organizations.  
 
 ### Answer/Example
-(YY西门子图书区)
+(西门子办公图书区)This is an example of how to quickly get adapt to a new environment which happened on me. It was during me internship at Siemens Real Estate in this summer. When I started my internship in Siemens, I found that everyone was busy with their own affairs and dit not care too much of a new colleague. After sevreal days, I did not even have oppotunity to say hello to some of my colleagues, and I was anxious about it.
+
+By chance, I had a conversation with my line manager and takled about my hobbies. When she knew that I had a rich experience in reading many kinds of books, she wanted me to introduce some of them to her. Suddenly I came up with an idea, that I could help build a library area in the office, which could offer books and magzines for reading in the spare time of the colleagues. The manager qucikly agreed and wanted me to draft a proposal and budget to her. On an internal meeting of the department, I proposed the idea of the library and got many suggestions from the colleagues. After that, I talked to them and asked for recommendations of books, which helped me quickly got familiar with many colleagues. A month later, the library area is set up, and through the process of the little project, I adapted myself into the new intern environment.
 
 ## 其他 Other Characteristics
 ### Qusstions Like:
