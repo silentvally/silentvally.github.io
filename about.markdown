@@ -15,6 +15,6 @@ who involved in
 
 mail 
 
-> sincereliutao DOT gmail DOT com
+> sincereliutao AT gmail DOT com
 
 to reach me
