@@ -9,7 +9,7 @@ tags:
   - yunmengshan
 ---
 
-![Yunmeng-Hiking](/media/image/2014/yunmeng-sunset.jpg)  
+![Yunmeng-Hiking](/media/image/2014/yunmeng-top.jpg)  
 
 ---
 
