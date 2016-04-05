@@ -11,7 +11,7 @@ tags:
 
 ![marriage](/media/image/2015/marriage.jpg)
 
-婚姻不是爱情的坟墓
-她只是爱情的加油站
+婚姻不是爱情的坟墓  
+她只是爱情的加油站  
 ---
 
